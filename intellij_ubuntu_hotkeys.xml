@@ -1,4 +1,4 @@
-<keymap version="1" name="anatolii.kurchak" parent="Default for GNOME">
+<keymap version="1" name="intellij_ubuntu_hotkeys" parent="Default for GNOME">
   <action id="ActivateDatabaseConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
