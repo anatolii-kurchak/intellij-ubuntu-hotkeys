@@ -35,6 +35,13 @@
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
@@ -44,6 +51,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
@@ -61,9 +69,6 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt u" />
-  </action>
-  <action id="UnsplitAll">
-    <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
