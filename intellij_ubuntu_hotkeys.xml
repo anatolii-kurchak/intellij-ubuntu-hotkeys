@@ -35,6 +35,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -85,6 +88,9 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
